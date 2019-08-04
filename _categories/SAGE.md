@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category
 title: "Simple Agile Game Engine"
 categories: Project
 ---

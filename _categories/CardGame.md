@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category
 title: "Java Card game"
 categories: Project
 ---

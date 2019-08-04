@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category
 title: "No_Oats Engine"
 categories: Project
 ---

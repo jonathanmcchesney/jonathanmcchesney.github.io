@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category
 title: "Online Ticketing MVP"
 categories: Project
 ---
