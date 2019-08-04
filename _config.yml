@@ -1,4 +1,4 @@
 name: Jonathan McChesney, Super Fly Cloud Guy
 markdown: kramdown
-permalink: /:categories/:title
+permalink: /blog/:categories/:title
 theme: jekyll-theme-midnight
